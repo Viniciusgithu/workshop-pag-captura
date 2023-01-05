@@ -71,6 +71,20 @@ h3 {
   font-size: 20px;
 }
 
+.data-collect form input[type=submit]{
+  width: 80%;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  outline: none;
+  border: none;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 6px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
 .inscriptions {
   width: 80%;
   margin: 10px auto;
@@ -87,22 +101,14 @@ h3 {
   justify-content: center;
   align-items: center;
   color: white;
+  margin-bottom: 1em;
 }
 
-.notification a {
-  width: 80%;
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
-  outline: none;
-  border: none;
-  padding: 15px;
-  font-size: 20px;
-  border-radius: 6px;
-  transition: 0.5s;
+.notification input {
+
 }
 
-.notification a:hover {
+.notification input:hover {
   color: #fff;
   background-color: #0069d9;
   border-color: #0062

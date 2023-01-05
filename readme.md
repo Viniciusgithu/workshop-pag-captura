@@ -6,6 +6,7 @@
 
 ## 🚀 Tecnologias: 
 - HTML & CSS
+- <a href="https://mailchimp.com/pt-br/">Mail.chimp </a>
 
 ## 💻 Projeto:
 - Desenvolvido com o intuito de praticar as páginas de captura. O projeto se baseiou em um Workshop fictício que buscada capturar nome, email e enviar semanalmente uma newsletter sobre tecnologia, programação e possíveis ofertas.
