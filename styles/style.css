@@ -96,21 +96,5 @@ h3 {
   margin: 10px auto;
 }
 
-.notification {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  margin-bottom: 1em;
-}
 
-.notification input {
-
-}
-
-.notification input:hover {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062
-}
 
